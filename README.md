@@ -40,6 +40,10 @@ The Paper and Velocity components must use the same plugin message channel.
 
 Check the configuration files for further options and restrictions.
 
+## Releases
+
+[Click here to see Releases](https://github.com/redstonelogi/Velorun/releases)
+
 
 
 Copyright (c) 2026 Velorun
