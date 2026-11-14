@@ -1,7 +1,7 @@
-# Velorun Custom License
+# Velorun License
 Version 1.0 – Draft
 
-Copyright (c) 2026 Velorun's original author.
+Copyright (c) 2026 RedstoneLogi.
 All Rights Reserved.
 
 ## 1. Ownership
